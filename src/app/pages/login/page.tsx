@@ -1,7 +1,7 @@
 export default function Auth() {
   return (
     <div>
-      <p>hello</p>
+      <p>hello123</p>
     </div>
   );
 }
